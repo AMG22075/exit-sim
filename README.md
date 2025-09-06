@@ -6,6 +6,8 @@ description.
 
 ## Exporting to Google Colab (for testing)
 
+https://colab.research.google.com/drive/19sNj9yImeMgdgyS_hAIF56h_D-tjq8kc
+
 Running the script on your own machine (in a Python environment with `pandas`
 and `nltk` installed) is recommended; however, if you don't have such a Python
 environment, using Google Colab is an applicable alternative:
