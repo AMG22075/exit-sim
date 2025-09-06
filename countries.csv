@@ -1,0 +1,95 @@
+COUNTRY,Exit 0,Exit 1,Population,Exit ratio,Delta
+United States,2550,390,2940,13.27%,27.81%
+California,1718,214,1932,11.08%,6.72%
+United Kingdom,377,27,404,6.68%,-35.61%
+Canada,293,34,327,10.40%,0.18%
+India,197,16,213,7.51%,-27.62%
+(blank),163,1,164,0.61%,-94.12%
+France,124,9,133,6.77%,-34.80%
+Germany,112,12,124,9.68%,-6.76%
+Israel,103,9,112,8.04%,-22.58%
+Mexico,91,3,94,3.19%,-69.25%
+Nigeria,89,1,90,1.11%,-89.29%
+Singapore,65,4,69,5.80%,-44.14%
+Australia,51,1,52,1.92%,-81.47%
+Brazil,47,2,49,4.08%,-60.67%
+Colombia,45,1,46,2.17%,-79.05%
+Netherlands,40,3,43,6.98%,-32.78%
+Spain,31,6,37,16.22%,56.24%
+Italy,33,1,34,2.94%,-71.66%
+Ireland,29,3,32,9.38%,-9.67%
+Indonesia,29,,29,0.00%,
+United Arab Emirates,26,,26,0.00%,
+Norway,23,2,25,8.00%,-22.92%
+Argentina,21,1,22,4.55%,-56.20%
+Chile,21,,21,0.00%,
+Estonia,18,3,21,14.29%,37.64%
+Kenya,20,1,21,4.76%,-54.12%
+Portugal,17,3,20,15.00%,44.53%
+Switzerland,20,,20,0.00%,
+Poland,17,1,18,5.56%,-46.47%
+Denmark,16,1,17,5.88%,-43.32%
+Sweden,13,3,16,18.75%,80.66%
+Peru,12,1,13,7.69%,-25.88%
+Egypt,12,,12,0.00%,
+Hong Kong,10,2,12,16.67%,60.58%
+Pakistan,12,,12,0.00%,
+Finland,8,3,11,27.27%,162.77%
+Ghana,11,,11,0.00%,
+Saudi Arabia,11,,11,0.00%,
+South Africa,10,1,11,9.09%,-12.41%
+Austria,8,2,10,20.00%,92.70%
+Belgium,9,1,10,10.00%,-3.65%
+Japan,10,,10,0.00%,
+South Korea,10,,10,0.00%,
+Ukraine,7,2,9,22.22%,114.11%
+Philippines,6,2,8,25.00%,140.88%
+Vietnam,8,,8,0.00%,
+New Zealand,6,,6,0.00%,
+Slovenia,6,,6,0.00%,
+Hungary,5,,5,0.00%,
+Malaysia,5,,5,0.00%,
+Panama,5,,5,0.00%,
+Turkey,5,,5,0.00%,
+China,4,,4,0.00%,
+Ecuador,4,,4,0.00%,
+Jamaica,4,,4,0.00%,
+Latvia,4,,4,0.00%,
+Ethiopia,3,,3,0.00%,
+Morocco,2,1,3,33.33%,221.17%
+Romania,3,,3,0.00%,
+Taiwan,3,,3,0.00%,
+Tanzania,3,,3,0.00%,
+Uganda,2,1,3,33.33%,221.17%
+Uruguay,3,,3,0.00%,
+Bolivia,2,,2,0.00%,
+Cayman Islands,2,,2,0.00%,
+Croatia,2,,2,0.00%,
+Czechia,2,,2,0.00%,
+Georgia,2,,2,0.00%,
+Jordan,2,,2,0.00%,
+Lebanon,2,,2,0.00%,
+Luxembourg,2,,2,0.00%,
+Senegal,1,1,2,50.00%,381.75%
+Venezuela,2,,2,0.00%,
+Armenia,1,,1,0.00%,
+Bahrain,1,,1,0.00%,
+Bangladesh,1,,1,0.00%,
+Benin,1,,1,0.00%,
+Bulgaria,1,,1,0.00%,
+Cameroon,1,,1,0.00%,
+Congo DRC,1,,1,0.00%,
+Costa Rica,1,,1,0.00%,
+Côte D'Ivoire,1,,1,0.00%,
+Cyprus,1,,1,0.00%,
+Greece,,1,1,100.00%,863.51%
+Iceland,1,,1,0.00%,
+Kosovo,1,,1,0.00%,
+Lithuania,1,,1,0.00%,
+Mongolia,1,,1,0.00%,
+Namibia,1,,1,0.00%,
+Puerto Rico,1,,1,0.00%,
+Seychelles,1,,1,0.00%,
+Sri Lanka,1,,1,0.00%,
+Trinidad and Tobago,1,,1,0.00%,
+Zambia,1,,1,0.00%,

@@ -1,0 +1,50 @@
+datafile = "./Master 7419 MAD.csv"
+country-datafile = "./countries.csv"
+datafile-sep = ","
+
+significant-size-threshold = 40
+
+# company suffixes to remove before calculating name length, etc.
+# case-folded before comparing.
+suffixes = [
+	" Inc.", " Inc",
+	"L.L.C.", "L.L.C", "LLC",
+	"L.L.P.", "L.L.P", "LLP",
+	"K.K.", "K.K", "KK",
+]
+
+[vocabulary-datafiles]
+jarg = "./jarg.txt"
+acro = "./acro.txt"
+buzz = "./buzz.txt"
+freq = "./freq.txt"
+
+[score-weights]
+# as usual, this should be inferred from the data at some point
+# but I'm not sure how that works yet.
+age = 0.211881
+text = 0.090783
+noun = 0.087299
+freq = 0.084873
+verb = 0.079243
+buzz = 0.072335
+adj = 0.071054
+jarg = 0.068354
+name = 0.058280
+url_len = 0.057975
+valu = 0.036345
+tags = 0.035831
+loc_us = 0.028709
+acro = 0.017038
+include-for-hype = [
+	"text", "noun", "verb", "adj", "valu",
+	"buzz", "acro", "jarg", "freq"
+]
+
+# new companies to analyse
+[[companies]]
+name = "Lombard Standard K.K."
+description = "Celeste is cool."
+url = "lombardstandard.com"
+country = "Japan"
+founded = 2023
